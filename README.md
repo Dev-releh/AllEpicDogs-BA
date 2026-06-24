@@ -23,7 +23,7 @@ Google Docs – Business Requirements Specification
 GitHub – Version control and portfolio hosting
 
 📂 Project Artifacts
-https://docs.google.com/document/d/1YOUR_ALL_EPIC_DOGS_DOCUMENT_ID/edit?usp=sharing
+https://docs.google.com/document/d/1NRVRc_6piQZdSsBFiSTT_WPuMjNXcvgzMQJCG1s-OMg/edit?usp=sharing
 
 (Replace the link above with your actual All Epic Dogs Google Doc link.)
 
