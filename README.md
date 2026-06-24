@@ -25,8 +25,6 @@ GitHub – Version control and portfolio hosting
 📂 Project Artifacts
 https://docs.google.com/document/d/1NRVRc_6piQZdSsBFiSTT_WPuMjNXcvgzMQJCG1s-OMg/edit?usp=sharing
 
-(Replace the link above with your actual All Epic Dogs Google Doc link.)
-
 👤 My Contributions
 Conceived and executed the project independently
 
@@ -44,4 +42,3 @@ Wrote Agile user stories with acceptance criteria
 - [LinkedIn](https://www.linkedin.com/in/selloaneletsoara)
 - [GitHub Portfolio](https://github.com/Dev-releh)
 
-GitHub Portfolio
