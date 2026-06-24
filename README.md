@@ -41,6 +41,7 @@ Performed gap analysis and proposed actionable solutions
 Wrote Agile user stories with acceptance criteria
 
 🔗 Connect with Me
-LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/selloaneletsoara)
+- [GitHub Portfolio](https://github.com/Dev-releh)
 
 GitHub Portfolio
